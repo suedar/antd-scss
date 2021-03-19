@@ -18031,6 +18031,8 @@ textarea.ant-input {
   border: 2px solid #fff;
   border-top: 0;
   border-left: 0;
+  width: 5.71428571px;
+  height: 9.14285714px;
   -webkit-transform: rotate(45deg) scale(1) translate(-50%, -50%);
           transform: rotate(45deg) scale(1) translate(-50%, -50%);
   opacity: 1;
