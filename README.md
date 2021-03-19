@@ -16,7 +16,7 @@
 
 ## 解决方法
 
-
+### 1
 ```
 // App.js
 import './App.scss';
@@ -39,3 +39,6 @@ import './App.scss';
 在根目录全局引入后，更改 `root` 里面的 `css` 变量即可。
 
 或者你也可以把这个文件下载在本地。
+
+### 2
+或者你可以试试[antd-scss-theme-plugin](https://www.npmjs.com/package/antd-scss-theme-plugin)。
