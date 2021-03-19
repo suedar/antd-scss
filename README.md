@@ -41,4 +41,4 @@ import './App.scss';
 或者你也可以把这个文件下载在本地。
 
 ### 2
-或者你可以试试[antd-scss-theme-plugin](https://www.npmjs.com/package/antd-scss-theme-plugin)。
+或者你可以试试 [antd-scss-theme-plugin](https://www.npmjs.com/package/antd-scss-theme-plugin)。
